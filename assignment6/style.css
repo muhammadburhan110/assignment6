@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.type1{
+    display: block;
+    margin: 0px auto;
+}
+div{
+    text-align: center;
+
+}
+p{
+    font-size: 2vw;
+}
+.type2{
+    margin-left: 700px;
+}
